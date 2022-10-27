@@ -1,4 +1,4 @@
-#Dynare Project in Python
+# Dynare Project in Python
 
 This is project in progress. The idea is to try and develop a program similar to MATLAB Dynare but written in Python.
 
